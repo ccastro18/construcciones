@@ -68,11 +68,13 @@ public  abstract class UnPiso {
 
     @Override
     public String toString(){
-        return "<area>"+this.area+"</area>"
+        return "<UnPiso>"
+                +"<area>"+this.area+"</area>"
                 +"<longitud>"+this.longitud+"</longitud>"
                 +"<latitud>"+this.latitud+"</latitud>"
                 +"<ancho>"+this.ancho+"</ancho>"
                 +"<pisos>"+this.pisos+"</pisos>"
-                +"<alto>"+this.alto+"</alto>";
+                +"<alto>"+this.alto+"</alto>"
+                +"</UnPiso>";
     }
 }

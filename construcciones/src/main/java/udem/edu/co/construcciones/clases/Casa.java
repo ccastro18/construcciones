@@ -25,9 +25,9 @@ public class Casa extends UnPiso implements Construccion {
 
     @Override
     public String toString(){
-        return "<construccion>"
-                +super.toString()
+        return
+                super.toString()
                 +"<nombre>"+nombre+"</nombre>"
-                +"</construccion>";
+                ;
     }
 }

@@ -29,9 +29,9 @@ public class Edificio extends MasUnPiso implements Construccion {
 
     @Override
     public String toString(){
-        return "<construccion>"
-                +super.toString()
+        return
+                super.toString()
                 +"<nombre>"+nombre+"</nombre>"
-                +"</construccion>";
+                ;
     }
 }
