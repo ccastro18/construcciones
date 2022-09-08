@@ -21,6 +21,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/construcciones.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/target/construcciones.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,7 +49,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/USUARIO/OneDrive/Imágenes/Documentos/construcciones/construcciones"
+    "last_opened_file_path": "C:/Users/USUARIO/OneDrive/Imágenes/Documentos/construcciones/construcciones",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662662943839</updated>
-      <workItem from="1662662945315" duration="5258000" />
+      <workItem from="1662662945315" duration="5580000" />
     </task>
     <task id="LOCAL-00001" summary="me faltaba algo, ahora si termine">
       <created>1662667305012</created>
