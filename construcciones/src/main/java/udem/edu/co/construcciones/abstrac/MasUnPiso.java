@@ -5,6 +5,8 @@
  */
 package udem.edu.co.construcciones.abstrac;
 
+import udem.edu.co.construcciones.interfaces.Construccion;
+
 /**
  *
  * @author USUARIO
@@ -46,6 +48,7 @@ public abstract class MasUnPiso {
 
     public void setAlto(int alto) {
         this.alto = alto;
+
     }
 
     public int getLatitud() {

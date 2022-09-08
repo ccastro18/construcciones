@@ -26,9 +26,9 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         List<Construccion> construcciones = new ArrayList<Construccion>();
-        Construccion construccion1 = new Apartamento();
-        Construccion construccion2 = new Casa();
-        Construccion construccion3 = new Edificio(5);
+        Construccion construccion1 = new Apartamento("apartamento");
+        Construccion construccion2 = new Casa("mi casa");
+        Construccion construccion3 = new Edificio(5,"edificio santafe");
         construcciones.add(construccion1);
         construcciones.add(construccion3);
         construcciones.add(construccion2);

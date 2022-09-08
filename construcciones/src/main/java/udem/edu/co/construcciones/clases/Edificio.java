@@ -6,8 +6,13 @@ import udem.edu.co.construcciones.interfaces.Construccion;
 public class Edificio extends MasUnPiso implements Construccion {
     private String nombre;
 
-    public Edificio(int pisos) {
+
+    public Edificio(int pisos, String nombre) {
         super(pisos);
+        super.setAlto(12);
+        super.setArea(320);
+        super.setLatitud(-456);
+        this.nombre = nombre;
     }
 
 
@@ -24,7 +29,7 @@ public class Edificio extends MasUnPiso implements Construccion {
 
     @Override
     public String toString(){
-        return "<onstruccion>"
+        return "<construccion>"
                 +super.toString()
                 +"<nombre>"+nombre+"</nombre>"
                 +"</construccion>";

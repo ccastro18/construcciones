@@ -6,7 +6,10 @@ import udem.edu.co.construcciones.interfaces.Construccion;
 public class Apartamento extends UnPiso implements Construccion {
     private String nombre;
 
-
+    public Apartamento(String nombre) {
+        this.nombre = nombre;
+        super.setLongitud(129);
+    }
 
 
     //getters and setters
@@ -22,7 +25,7 @@ public class Apartamento extends UnPiso implements Construccion {
 
     @Override
     public String toString(){
-        return "<onstruccion>"
+        return "<construccion>"
                 +super.toString()
                 +"<nombre>"+nombre+"</nombre>"
                 +"</construccion>";
