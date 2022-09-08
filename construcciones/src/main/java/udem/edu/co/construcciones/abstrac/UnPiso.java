@@ -74,7 +74,6 @@ public  abstract class UnPiso {
                 +"<latitud>"+this.latitud+"</latitud>"
                 +"<ancho>"+this.ancho+"</ancho>"
                 +"<pisos>"+this.pisos+"</pisos>"
-                +"<alto>"+this.alto+"</alto>"
-                ;
+                +"<alto>"+this.alto+"</alto>";
     }
 }
