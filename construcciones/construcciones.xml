@@ -1,0 +1,27 @@
+<construccion>
+    <area>0</area>
+    <longitud>129</longitud>
+    <latitud>0</latitud>
+    <ancho>0</ancho>
+    <pisos>1</pisos>
+    <alto>0</alto>
+    <nombre>apartamento</nombre>
+</construccion>
+<construccion>
+    <area>320</area>
+    <longitud>0</longitud>
+    <latitud>-456</latitud>
+    <ancho>0</ancho>
+    <pisos>1</pisos>
+    <alto>12</alto>
+    <nombre>edificio santafe</nombre>
+</construccion>
+<construccion>
+    <area>0</area>
+    <longitud>0</longitud>
+    <latitud>0</latitud>
+    <ancho>25</ancho>
+    <pisos>1</pisos>
+    <alto>0</alto>
+    <nombre>mi casa</nombre>
+</construccion>
