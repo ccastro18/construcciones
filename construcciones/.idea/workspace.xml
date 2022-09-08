@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65258a98-a377-4e08-81dc-de9e0b571642" name="Changes" comment="">
+    <list default="true" id="65258a98-a377-4e08-81dc-de9e0b571642" name="Changes" comment="f">
+      <change afterPath="$PROJECT_DIR$/construcciones.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/construcciones.xml" beforeDir="false" afterPath="$PROJECT_DIR$/construcciones.xml" afterDir="false" />
     </list>

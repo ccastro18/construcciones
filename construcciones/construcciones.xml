@@ -1,29 +1,29 @@
 <construccion>
-<UnPiso>
-    <area>0</area>
-    <longitud>129</longitud>
-    <latitud>0</latitud>
-    <ancho>0</ancho>
-    <pisos>1</pisos>
-    <alto>0</alto>
-    <nombre>apartamento</nombre>
-</UnPiso>
-<MasUnPiso>
-    <area>320</area>
-    <longitud>0</longitud>
-    <latitud>-456</latitud>
-    <ancho>0</ancho>
-    <pisos>1</pisos>
-    <alto>12</alto>
-    <nombre>edificio santafe</nombre>
-</MasUnPiso>
-<UnPiso>
-    <area>0</area>
-    <longitud>0</longitud>
-    <latitud>0</latitud>
-    <ancho>25</ancho>
-    <pisos>1</pisos>
-    <alto>0</alto>
-    <nombre>mi casa</nombre>
-</UnPiso>
+    <UnPiso>
+        <area>0</area>
+        <longitud>129</longitud>
+        <latitud>0</latitud>
+        <ancho>0</ancho>
+        <pisos>1</pisos>
+        <alto>0</alto>
+        <nombre>apartamento</nombre>
+    </UnPiso>
+    <MasUnPiso>
+        <area>320</area>
+        <longitud>0</longitud>
+        <latitud>-456</latitud>
+        <ancho>0</ancho>
+        <pisos>1</pisos>
+        <alto>12</alto>
+        <nombre>edificio santafe</nombre>
+    </MasUnPiso>
+    <UnPiso>
+        <area>0</area>
+        <longitud>0</longitud>
+        <latitud>0</latitud>
+        <ancho>25</ancho>
+        <pisos>1</pisos>
+        <alto>0</alto>
+        <nombre>mi casa</nombre>
+    </UnPiso>
 </construccion>

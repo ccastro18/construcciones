@@ -1,0 +1,33 @@
+{
+  "construccion": {
+    "UnPiso": [
+      {
+        "area": "0",
+        "longitud": "129",
+        "latitud": "0",
+        "ancho": "0",
+        "pisos": "1",
+        "alto": "0",
+        "nombre": "apartamento"
+      },
+      {
+        "area": "0",
+        "longitud": "0",
+        "latitud": "0",
+        "ancho": "25",
+        "pisos": "1",
+        "alto": "0",
+        "nombre": "mi casa"
+      }
+    ],
+    "MasUnPiso": {
+      "area": "320",
+      "longitud": "0",
+      "latitud": "-456",
+      "ancho": "0",
+      "pisos": "1",
+      "alto": "12",
+      "nombre": "edificio santafe"
+    }
+  }
+}
