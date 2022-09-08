@@ -27,6 +27,7 @@ public class Apartamento extends UnPiso implements Construccion {
     public String toString(){
         return
                 super.toString()
-                +"<nombre>"+nombre+"</nombre>";
+                +"<nombre>"+nombre+"</nombre>"
+                +"</UnPiso>";
     }
 }

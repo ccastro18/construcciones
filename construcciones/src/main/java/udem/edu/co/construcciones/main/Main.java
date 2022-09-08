@@ -32,7 +32,7 @@ public class Main {
         construcciones.add(construccion1);
         construcciones.add(construccion3);
         construcciones.add(construccion2);
-        System.out.println(construcciones);
+        System.out.println("<construccion>"+construcciones+"</construccion>");
     }
     
 }

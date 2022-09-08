@@ -76,6 +76,6 @@ public abstract class MasUnPiso {
         +"<ancho>"+this.ancho+"</ancho>"
         +"<pisos>"+this.pisos+"</pisos>"
         +"<alto>"+this.alto+"</alto>"
-        +"</MasUnPiso>";
+        ;
     }
 }

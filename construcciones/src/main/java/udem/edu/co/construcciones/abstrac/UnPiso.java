@@ -75,6 +75,6 @@ public  abstract class UnPiso {
                 +"<ancho>"+this.ancho+"</ancho>"
                 +"<pisos>"+this.pisos+"</pisos>"
                 +"<alto>"+this.alto+"</alto>"
-                +"</UnPiso>";
+                ;
     }
 }

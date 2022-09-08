@@ -32,6 +32,6 @@ public class Edificio extends MasUnPiso implements Construccion {
         return
                 super.toString()
                 +"<nombre>"+nombre+"</nombre>"
-                ;
+               +"</MasUnPiso>";
     }
 }

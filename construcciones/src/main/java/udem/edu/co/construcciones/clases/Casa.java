@@ -28,6 +28,6 @@ public class Casa extends UnPiso implements Construccion {
         return
                 super.toString()
                 +"<nombre>"+nombre+"</nombre>"
-                ;
+                +"</UnPiso>";
     }
 }
